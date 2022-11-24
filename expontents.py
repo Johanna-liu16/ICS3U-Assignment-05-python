@@ -5,7 +5,7 @@
 # This program counts
 
 
-def main(): 
+def main():
     loop_counter = 0
     answer = 1
 
